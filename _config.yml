@@ -1,0 +1,14 @@
+layout_spectrum: 0.8216970390640199
+typography_spectrum: 0.10527482558973134
+color:
+  brandStrength: 0.25111816660501063
+  lightness: 0.6124365865252912
+  saturation: 0.12352244812063873
+  rhythmicContrast: 0.2322403360158205
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Clotho Interface
